@@ -1,0 +1,13 @@
+print ("Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically type-checked and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.")
+
+# print is a built-in function in Python that outputs text or other data to the console or terminal.
+
+age1 = 16
+age2 = 15
+
+aura1 = "მე "
+aura2 = "მიყვარს "
+aura3 = "GOA"
+
+print ("             ")
+print (aura1 + aura2 + aura3)
