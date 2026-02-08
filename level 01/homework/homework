@@ -2,9 +2,11 @@ print ("Python is a high-level, general-purpose programming language. Its design
 
 # print is a built-in function in Python that outputs text or other data to the console or terminal.
 
+#me and my friends age
 age1 = 16
 age2 = 15
 
+#+ aura
 aura1 = "მე "
 aura2 = "მიყვარს "
 aura3 = "GOA"
