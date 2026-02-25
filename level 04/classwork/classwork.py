@@ -14,9 +14,3 @@ adress = input('what is you address ?: ')
 age = input('what is you age ?: ')
 
 print(f'i am {name} {surname} and i am {age} years old. i live in {adress}.') 
-
-
-
-GIO = 'yle'
-
-print(GIO)

@@ -3,4 +3,4 @@ district = input('what district do you live in ?: ')
 building = input('what building do you live in ?: ')
 Floor = input('what floor do you live in ?: ')
 
-print(f'i live in {city} city, {district} district, {building} building, {Floor} floor.')
+print(f'i live in {city} {district} district, {building} {Floor} floor.')
