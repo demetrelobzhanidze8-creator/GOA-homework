@@ -8,7 +8,7 @@ ga = (nam1 * nam2)
 gay = (nam1 / nam2)
 
 
-print(g)
 print(m)
+print(g)
 print(ga)
 print(gay)

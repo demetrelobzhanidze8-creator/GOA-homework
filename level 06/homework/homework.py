@@ -14,4 +14,6 @@ print(type(n))  # ეს დაბეჭდავს <class 'list'>
 name = "demetre"
 surname = "lobzhanidze"
 age = 16
+
 print('I am ' + name + ' ' + surname + ' and I am ' + str(age) + ' years old.')
+
